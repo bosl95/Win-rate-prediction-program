@@ -1,6 +1,6 @@
 ## Win rate prediction program
 - Pandas
-- Sklearn : svm, metrics
+- scikit-learn : svm, metrics
 - pickle
 
 ## Detail
